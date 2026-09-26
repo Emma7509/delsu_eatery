@@ -1,0 +1,178 @@
+[
+  {
+    "id": "jollof-rice",
+    "name": "DELSU Jollof Rice",
+    "category": "Rice",
+    "price": 1500,
+    "image": "https://images.unsplash.com/photo-1604329760661-e71dc83f8f26?w=800&auto=format&fit=crop",
+    "description": "Smoky party-style jollof rice cooked over open flame, served with fried plantain and coleslaw. A campus favorite.",
+    "available": true,
+    "popular": true,
+    "rating": 4.8
+  },
+  {
+    "id": "fried-rice-chicken",
+    "name": "Fried Rice & Chicken",
+    "category": "Rice",
+    "price": 2000,
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=800&auto=format&fit=crop",
+    "description": "Vegetable fried rice paired with grilled chicken laps and a side of coleslaw.",
+    "available": true,
+    "popular": true,
+    "rating": 4.7
+  },
+  {
+    "id": "ofada-rice",
+    "name": "Ofada Rice & Ayamase",
+    "category": "Local Dishes",
+    "price": 2200,
+    "image": "https://images.unsplash.com/photo-1567337710282-00832b415979?w=800&auto=format&fit=crop",
+    "description": "Local brown rice wrapped with rich green pepper stew, assorted meat and boiled egg.",
+    "available": true,
+    "popular": false,
+    "rating": 4.6
+  },
+  {
+    "id": "egusi-soup",
+    "name": "Egusi Soup & Pounded Yam",
+    "category": "Local Dishes",
+    "price": 2500,
+    "image": "https://images.unsplash.com/photo-1547573854-74d2a71d0826?w=800&auto=format&fit=crop",
+    "description": "Melon seed soup loaded with spinach, stockfish and goat meat. Served with fresh pounded yam.",
+    "available": true,
+    "popular": true,
+    "rating": 4.9
+  },
+  {
+    "id": "amala-ewedu",
+    "name": "Amala, Ewedu & Gbegiri",
+    "category": "Local Dishes",
+    "price": 1800,
+    "image": "https://images.unsplash.com/photo-1631292784640-2b24be784d5d?w=800&auto=format&fit=crop",
+    "description": "Soft yam flour swallow with jute leaf and bean soup. Classic Abraka comfort.",
+    "available": true,
+    "popular": false,
+    "rating": 4.5
+  },
+  {
+    "id": "banga-starch",
+    "name": "Banga Soup & Starch",
+    "category": "Local Dishes",
+    "price": 2400,
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&auto=format&fit=crop",
+    "description": "Delta native palm nut soup with fresh catfish, served with smooth yellow starch.",
+    "available": true,
+    "popular": true,
+    "rating": 4.8
+  },
+  {
+    "id": "suya",
+    "name": "Beef Suya",
+    "category": "Proteins",
+    "price": 1200,
+    "image": "https://images.unsplash.com/photo-1633237308525-cd587cf71926?w=800&auto=format&fit=crop",
+    "description": "Spicy grilled beef skewers tossed with yaji pepper, onions and tomato.",
+    "available": true,
+    "popular": true,
+    "rating": 4.7
+  },
+  {
+    "id": "grilled-chicken",
+    "name": "Grilled Chicken Lap",
+    "category": "Proteins",
+    "price": 1500,
+    "image": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&auto=format&fit=crop",
+    "description": "Marinated chicken lap grilled to smoky perfection.",
+    "available": true,
+    "popular": false,
+    "rating": 4.6
+  },
+  {
+    "id": "fish-pepper-soup",
+    "name": "Catfish Pepper Soup",
+    "category": "Proteins",
+    "price": 2000,
+    "image": "https://images.unsplash.com/photo-1583224964978-2257b960c3d3?w=800&auto=format&fit=crop",
+    "description": "Hot, spicy catfish pepper soup with utazi leaves — the perfect rainy-day meal.",
+    "available": false,
+    "popular": false,
+    "rating": 4.7
+  },
+  {
+    "id": "meat-pie",
+    "name": "Meat Pie",
+    "category": "Snacks",
+    "price": 500,
+    "image": "https://images.unsplash.com/photo-1619158401201-8fa932695178?w=800&auto=format&fit=crop",
+    "description": "Flaky golden pastry stuffed with minced beef, potatoes and carrots.",
+    "available": true,
+    "popular": true,
+    "rating": 4.5
+  },
+  {
+    "id": "puff-puff",
+    "name": "Puff Puff (6 pcs)",
+    "category": "Snacks",
+    "price": 400,
+    "image": "https://images.unsplash.com/photo-1606755962773-d324e0a13086?w=800&auto=format&fit=crop",
+    "description": "Soft, fluffy deep-fried dough balls dusted with sugar.",
+    "available": true,
+    "popular": false,
+    "rating": 4.4
+  },
+  {
+    "id": "sausage-roll",
+    "name": "Sausage Roll",
+    "category": "Snacks",
+    "price": 450,
+    "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=800&auto=format&fit=crop",
+    "description": "Buttery pastry wrapped around a seasoned beef sausage.",
+    "available": true,
+    "popular": false,
+    "rating": 4.3
+  },
+  {
+    "id": "zobo",
+    "name": "Chilled Zobo Drink",
+    "category": "Drinks",
+    "price": 500,
+    "image": "https://images.unsplash.com/photo-1597481499750-3e6b22637e12?w=800&auto=format&fit=crop",
+    "description": "Refreshing hibiscus drink infused with pineapple and ginger.",
+    "available": true,
+    "popular": true,
+    "rating": 4.8
+  },
+  {
+    "id": "chapman",
+    "name": "Chapman",
+    "category": "Drinks",
+    "price": 800,
+    "image": "https://images.unsplash.com/photo-1546171753-97d7676e4602?w=800&auto=format&fit=crop",
+    "description": "Nigerian signature cocktail with Fanta, Sprite, blackcurrant and a hint of bitters.",
+    "available": true,
+    "popular": false,
+    "rating": 4.6
+  },
+  {
+    "id": "smoothie",
+    "name": "Tropical Smoothie",
+    "category": "Drinks",
+    "price": 1000,
+    "image": "https://images.unsplash.com/photo-1505252585461-04db1eb84625?w=800&auto=format&fit=crop",
+    "description": "Mango, pineapple and banana blended with yoghurt — packed with vitamins.",
+    "available": true,
+    "popular": false,
+    "rating": 4.5
+  },
+  {
+    "id": "bottled-water",
+    "name": "Bottled Water (75cl)",
+    "category": "Drinks",
+    "price": 200,
+    "image": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=800&auto=format&fit=crop",
+    "description": "Pure, chilled drinking water.",
+    "available": true,
+    "popular": false,
+    "rating": 4.9
+  }
+]
